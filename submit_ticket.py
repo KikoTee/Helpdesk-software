@@ -12,3 +12,6 @@ def submit_ticket():
     # Confirm successful ticket submission
     print("Ticket submitted successfully!")
     print()
+
+# Example usage:
+submit_ticket()
