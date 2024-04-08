@@ -26,25 +26,6 @@ This is a prototype of a Help Desk ticketing system developed in Python. The sys
 5. **Reopening a Ticket**:
     - Call the `reopen_ticket(ticket)` function to reopen a closed ticket.
 
-## Installation
-
-1. Clone the repository:
-
-    ```
-    git clone https://github.com/KikoTee/help-desk-ticketing-system.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```
-    cd help-desk-ticketing-system
-    ```
-
-3. Run the Python script:
-
-    ```
-    python main.py
-    ```
 
 ## Contributions
 
